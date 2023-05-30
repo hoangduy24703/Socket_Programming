@@ -1,0 +1,6 @@
+----------------MENU----------------
+1-Beef_Steak 	50$ 	Signature
+2-Spaghetti 	20$ 	Best_seller
+3-Pasta 	15$ 	Best_seller
+4-Pizza 	15$ 	Sale_off_30%
+5-Burger 	5$ 	Take_away
